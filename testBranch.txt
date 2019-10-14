@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Test the branch file 
 Resolve Conflict
+=======
+Test the branch file
+Verify Merge Conflict 
+>>>>>>> Resolve Conflict
