@@ -1,1 +1,2 @@
-Test the branch file
+Test the branch file 
+Resolve Conflict
