@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 Updating this file to be pulled from CMD
+=======
+Create an empty file
+There is already changes from WEb
+>>>>>>> Stashed changes
